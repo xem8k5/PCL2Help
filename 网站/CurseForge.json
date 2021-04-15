@@ -1,0 +1,10 @@
+{
+	"__Author__": "xem8k5",
+	"Title": "CurseForge",
+	"Description": "一个国际性的 Minecraft 模组和整合包下载网站，国内进入要验证",
+	"Keywords": "CurseForge",
+	"Types": ["网站"],
+	"IsEvent": true,
+	"EventType": "打开网页",
+	"EventData": "https://www.curseforge.com/"
+}
